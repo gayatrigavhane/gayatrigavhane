@@ -3,22 +3,7 @@
 <br/><br/>
 
 
- // Check if the code is functioning correctly
-      if (isCodeWorking)
-        {
-          // Continuously improve the code quality until it reaches perfection
-              while (codeQuality < perfection)
-              {
-                  codeQuality++; // Increment code quality
-               }
-       }
-
-while(alive)
-  {
-      eat();
- sleep();
-    code();   }
-   //  Vedant hande
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatrigavhane50@gmail.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gayatrigavhane50@gmail.com) 
