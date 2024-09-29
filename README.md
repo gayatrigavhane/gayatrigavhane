@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m @Gayatri-Gavahane, but you can call me Gayu !<br>- ✨ year of coming into world : 2006<br>- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' etc.<br>- 🌱 I’m currently learning Information Technology with a focus on coding.<br>- 💞️ I’m looking to collaborate on innovative projects in the fields of web development, AI, and machine learning that not only solve real-world problems but also push the boundaries of what technology can achieve!<br>- 📫 How to reach me:<br>- Phone: +91 84465497931<br>- Email: gayatrigavahane50@gmail.com<br>- 😄 Pronouns: he/him | always eager to learn new coding tricks and technologies !<br>- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔
-// Check if the code is functioning correctly
+<br/><br/>
+
+
+ // Check if the code is functioning correctly
       if (isCodeWorking)
         {
           // Continuously improve the code quality until it reaches perfection
@@ -10,12 +13,11 @@
                }
        }
 
-    while(alive)
+while(alive)
   {
       eat();
-      sleep();
-      code();
-   }
+ sleep();
+    code();   }
    //  Vedant hande
 
 ## 🌐 Socials:
