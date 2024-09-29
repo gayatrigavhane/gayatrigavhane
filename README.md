@@ -37,5 +37,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gayatrigavhane&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 <br/>
+
+---
 [![](https://visitcount.itsvg.in/api?id=gayatrigavhane&icon=10&color=0)](https://visitcount.itsvg.in)
-<br/>
+
